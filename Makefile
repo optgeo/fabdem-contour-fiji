@@ -10,3 +10,6 @@ convert:
 
 upload:
 	aws s3 cp $(DST_PATH) s3://us-west-2.opendata.source.coop/smartmaps/foil4gr1/	
+
+ack:
+	curl -I https://data.source.coop/smartmaps/foil4gr1/$(DST_PATH)
