@@ -2,7 +2,11 @@
 FABDEM-based contour line vector tiles prototype for Fiji
 
 ## Demo
-FIXME
+### GitHub Pages
+https://optgeo.github.io/fabdem-contour-fiji/
+
+### Observable
+https://observablehq.com/d/fa58ad959a5f4604IXME
 
 ## Technical information
 - PMTiles: https://data.source.coop/smartmaps/foil4gr1/fabdem-fiji.pmtiles
